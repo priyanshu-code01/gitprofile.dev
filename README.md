@@ -57,4 +57,5 @@ View profile details and repositories instantly
 Priyanshu Singh
 
 GitHub: https://github.com/priyanshu-code01/gitprofile.dev
-Portfolio: https://gitprofile-dev.vercel.app/
+<br/>
+Portfolio: https://hirepriyanshuin.vercel.app/
