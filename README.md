@@ -1,12 +1,60 @@
-# React + Vite
+# GitHub Profile & Repositories Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that allows users to search and view GitHub profiles along with their public repositories using the GitHub API.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Search any GitHub user by username
+- View profile details (avatar, bio, followers, following)
+- Display all public repositories
+- Responsive UI for desktop and mobile
+- Fast API data fetching
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- Tailwind CSS
+- GitHub REST API
+- Axios
+
+## 📸 Screenshot
+
+![github image](<Screenshot 2026-03-16 102425.png>)
+
+## 🔗 Live Demo
+
+https://gitprofile-dev.vercel.app/
+
+## 📂 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/priyanshu-code01/gitprofile.dev
+```
+Go to the project folder
+```bash
+cd gitprofile.dev
+```
+Install dependencies
+```bash
+npm install
+```
+Start the development server
+```base
+npm run dev
+```
+
+📌 Usage
+
+Enter a GitHub username in the search box
+
+View profile details and repositories instantly
+
+👨‍💻 Author
+
+Priyanshu Singh
+
+GitHub: https://github.com/priyanshu-code01/gitprofile.dev
+Portfolio: https://gitprofile-dev.vercel.app/
