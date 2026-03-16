@@ -31,7 +31,7 @@ https://gitprofile-dev.vercel.app/
 Clone the repository
 
 ```bash
-git clone https://github.com/priyanshu-code01/gitprofile.dev
+git clone https://github.com/priyanshu-code01/gitprofile.dev.git
 ```
 Go to the project folder
 ```bash
